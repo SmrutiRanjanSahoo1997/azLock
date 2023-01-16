@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azLock.iml" filepath="$PROJECT_DIR$/.idea/modules/azLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/azLock.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/azLock.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/azLock.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/azLock.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/azLock.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/azLock.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/azLock.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/azLock.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/azlibrary/azLock.azlibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>
